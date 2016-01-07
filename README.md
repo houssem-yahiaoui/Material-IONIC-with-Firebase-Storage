@@ -23,3 +23,6 @@ Now, add the following command :
 $ ionic serve --lab
 # This command to launch the development lab, and see you application into the browser.
 ```
+And the result will look like this : 
+![alt text](http://hpics.li/18421de "The Lab !")
+PS : It's Android oriented context
